@@ -1,0 +1,120 @@
+.top_box {
+    width: 1460px;
+    height: 60px;
+    margin: 0 0 10px;
+    padding: 20px 29px 12px;
+    background-color: #070707;
+}
+
+.width-full {
+    width: 100%;
+
+}
+
+img.logo_icon {
+    width: 180px;
+    height: 17px;
+    margin: 1px 40px 9px 0;
+    object-fit: contain;
+}
+
+.Discover {
+    width: 60px;
+    height: 12px;
+    margin: 3px 29px 12px 40px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.07;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8f8f8f;
+    justify-content: space-between;
+}
+
+.Job {
+    width: 26px;
+    height: 11px;
+    margin: 4px 296px 12px 29px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.07;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8f8f8f;
+}
+
+.search_box {
+
+    height: 1px;
+    background-color: #8f8f8f;
+}
+
+.Search-for-motion-trend {
+    width: 186px;
+    height: 11px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.07;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.search_box {
+    width: 600px;
+    height: 1px;
+    background-color: #8f8f8f;
+}
+
+HT .icon_holder {
+    width: 21px;
+    height: 21px;
+    background-color: var(--black-four);
+}
+
+img.white_search_icon {
+    width: 22px;
+    height: 21px;
+    padding: 0 0 0 1px;
+    object-fit: contain;
+}
+
+
+
+.Login,
+.Sign-Up {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.07;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8f8f8f;
+
+}
+
+.Login {
+    width: 38px;
+    height: 15px;
+
+
+}
+
+.Sign-Up {
+    width: 56px;
+    height: 15px;
+
+
+
+}
