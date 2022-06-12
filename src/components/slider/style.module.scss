@@ -3,7 +3,8 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-
+        padding: 0 ;
+margin-left:  0.9rem;
         .sliderMenu {
             background-color: #070707;
             font-size: 1.125rem;
@@ -16,6 +17,10 @@
             padding: 1rem;
             display: flex;
             align-items: center;
+            text-align: center;
+           span{
+            margin: auto;
+           }
 
         }
     }
