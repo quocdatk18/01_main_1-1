@@ -1,0 +1,22 @@
+.slider {
+    .sliderList {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        .sliderMenu {
+            background-color: #070707;
+            font-size: 1.125rem;
+            font-weight: 500;
+            width: 200px;
+            height: 80px;
+            color: #fff;
+            margin-right: 0.625rem;
+            margin-top: 0.625rem;
+            padding: 1rem;
+            display: flex;
+            align-items: center;
+
+        }
+    }
+}

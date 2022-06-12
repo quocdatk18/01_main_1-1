@@ -1,0 +1,46 @@
+* {
+    list-style-type: none;
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    // max-width: 1140px;
+    max-width: 80%;
+    margin: 0 auto;
+    height: 100%
+}
+
+@media screen and (max-width: 992px) {
+    .container {
+        max-width: 960px;
+        height: 100%
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 720px;
+        height: 100%
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    .container {
+        max-width: 540px;
+        height: 100%
+    }
+
+}
+
+// @media screen and (min-width: 576px) {
+//     .container {
+//         max-width: 100%;
+
+//     }
+
+// }
