@@ -1,8 +1,10 @@
 .slider {
+    position: relative;
     .sliderList {
         display: flex;
         justify-content: space-around;
         align-items: center;
+        
         padding: 0 ;
 margin-left:  0.9rem;
         .sliderMenu {
@@ -22,6 +24,30 @@ margin-left:  0.9rem;
             margin: auto;
            }
 
+        }
+    }
+    .ellipse{
+        
+        position: absolute;
+        color: #fff;
+        cursor: pointer;
+        font-size: 25px;
+        top: 2.0625rem;
+        width: 100%;
+    
+        
+        .iconLeft{
+            background-color: #ff2e43;
+            border-radius: 50%;
+            margin: auto;
+            float: left;
+        }
+        .iconRight{
+            background-color: #ff2e43;
+            
+            border-radius: 50%;
+            margin: auto;
+         float: right;
         }
     }
 }
